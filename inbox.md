@@ -1,3 +1,6 @@
+Notas:
+Estudio de un artículo: Use of Finite Element Analysis to Predict Type of Bone Fractures and Fracture Risks in Femur due to Osteoporosis
+
 # Resumen clases
 
 - Clase 1
